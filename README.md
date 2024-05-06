@@ -3,6 +3,9 @@ Repositório para armazenar tanto materiais de estudo quanto anotações feitas 
 
  ## Aula sobre Pixels e Pixel Art (6/5/24)
  #Pixel
+ Um pixel é um ponto onde as cores formam uma determinada imagem. Uma imagem é composta por inúmeros pixels. Eles são posicionados como um gráfico cartesiano X e Y e é da lateral esquerda superior, um exemplo: 1024x768, nesse caso a tela é composta por 1024 pixels no eixo X e 768 no eixo Y. Um pixel, aliás, não tem sombra e a mesma só pode ser representada. 
+ A resolução é a capacidade da imagem em receber informações.
+ Antialias: É um efeito de borrado nas bordas de uma imagem feita somente por pixels (quadrados) para deixar um pouco mais estilizado.
 
  #Jogos Pixel Art
  Alguns exemplos de jogos que utilizam de Pixel Art por vontade própria são: Katana Zero, Oneshot, Celeste, Enigma do Medo, Undertale e muito mais. 
